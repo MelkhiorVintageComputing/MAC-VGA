@@ -1,0 +1,1 @@
+See https://github.com/sfiera/mactech/blob/master/displays.rst
